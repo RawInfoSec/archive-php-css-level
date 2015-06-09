@@ -1,3 +1,6 @@
+# Old Code: 
+### Responsive design has gotten pretty good at eliminating the need for things like this, however it is still useful for those really hard to target bugs affecting only a single version of a single browser on a single platform
+
 # CSS Level
 ### (PHP version)
 
